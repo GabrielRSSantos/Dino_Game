@@ -1,4 +1,4 @@
-# Dino_Game By Dio Bootcamp
+# Dino_Game By Dio-Orb-Bootcamp
 Réplica do jogo Dinossauro encontrado no browser Chrome
 
 ![screenshot](example.png?raw=true "screenshot")
